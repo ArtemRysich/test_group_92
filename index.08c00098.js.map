@@ -1,0 +1,1 @@
+{"mappings":"YAAAA,MAAQ,GACRC,QAAQC,IAAIF,OAEZ,IAAMG,EAAOH,MAAQ,GACrBC,QAAQC,IAAIC,E","sources":["src/index.js"],"sourcesContent":["value = 10;\nconsole.log(value);\n\nconst test = value + 10;\nconsole.log(test);"],"names":["value","console","log","$b8f9b7833fa37166$var$test"],"version":3,"file":"index.08c00098.js.map"}
